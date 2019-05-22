@@ -10,4 +10,4 @@ License: Attribution-NonCommercial-NoDerivs 3.0 United States http://creativecom
 
 To pull this song project directly without cloning the whole repo, use
 
-> svn export "https://github.com/vandorb12/vb12_ps_customs/trunk/The Barebones - Deadbeat Blues"
+`svn export "https://github.com/vandorb12/vb12_ps_customs/trunk/The Barebones - Deadbeat Blues"`
